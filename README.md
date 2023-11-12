@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MyoungkyuSeo 
 - 👀 I’m interested in python and storing my works in this page
-- 🌱 I’m currently a Junior, learning python
+- 🌱 I'm a freshman at UT Austin studying Mechanical Engineering.
 
 <!---
 MyoungkyuSeo/MyoungkyuSeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
